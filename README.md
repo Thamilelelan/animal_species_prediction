@@ -23,3 +23,7 @@ pip install tensorflow numpy pillow
 3. Place the images you want to classify in a folder named `images` within the project directory.
 4. Run the Python script `animal_species_predictor.py`
 5. The Output will specify the name of teh image and the prediction below it.
+
+### Note
+
+some images are already present in the images folder for reference, feel free to delete tehm if you want
