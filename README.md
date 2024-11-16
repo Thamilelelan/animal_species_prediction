@@ -21,5 +21,5 @@ pip install tensorflow numpy pillow
 1. Clone this repository to your local machine.
 2. Install the required libraries using the command mentioned above.
 3. Place the images you want to classify in a folder named `images` within the project directory.
-4. Run the Python script.
+4. Run the Python script `animal_species_predictor.py`
 5. The Output will specify the name of teh image and the prediction below it.
